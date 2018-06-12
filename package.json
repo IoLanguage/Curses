@@ -1,0 +1,15 @@
+{
+  "name":         "Curses",
+  "version":      "0.1",
+  "description":  "Curses allows writing and reading at arbitrary positions on the terminal.",
+  "author":       "",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Curses"],
+  "dependencies": {
+    "libs":     ["curses", "ncurses"],
+    "headers":  ["curses.h", "ncurses.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
